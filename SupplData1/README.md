@@ -1,6 +1,6 @@
-# Run the ipython and R markdown notebooks to reproduce the figures
+## Run the ipython and R markdown notebooks to reproduce the figures
 
-# File and folder descriptions
+## File and folder descriptions
 purity_tumeric.csv : tumeric purity estimates
 
 data/deconv_separate folder contains the separate deconvolution results from 20 cancers types, 5 BRCA subtypes and CPTAC OV and BRCA
